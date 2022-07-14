@@ -1,34 +1,6 @@
 body {
-    background-image: url(background.img);
-    background-color: rgb(255, 238, 0);
+    background-image: url(download.jpg);
 }
-
-.quiz-question{
-    margin-bottom: 10px;
-    text-align: left;
-    font-size: 15px;
-    color: #f44336;
-    font-weight: 400;
-}
-
-.quiz-button{
-    display: inline-block;
-    text-decoration: none;
-    color: #111;
-    border: 1px solid #f44336;
-    padding: 5px 5px;
-    font-size: 13px;
-    background: transparent;
-    position: relative;
-    cursor: pointer;
-}
-
-.quiz-button:hover{
-    color: #fff;
-    background: #f44336;
-    transition: 0.5s;
-}
-
-#answer{
-    display: none;
+blockquote {
+    background-color: blue;
 }
